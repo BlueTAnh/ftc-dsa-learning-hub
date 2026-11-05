@@ -51,8 +51,6 @@ Each week folder follows the same layout:
 
 ```
 week-XX-topic/
-├── notes.md      # summary notes
-├── slides.pdf    # session slides
 ├── lecture/      # code from the live-coding session
 ├── homework/     # questions + starter code
 └── solutions/    # added after the homework deadline
