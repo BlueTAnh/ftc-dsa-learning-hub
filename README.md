@@ -23,7 +23,7 @@ This repo holds everything you need: notes, slides, live-code examples, homework
 | **Language** | Python |
 | **Prerequisite** | Basic Python (variables, loops, functions, lists). Python classes are refreshed in Week 6. |
 
-> **Joining in Week 6?** Go through the Week 2–5 folders before your first session. The Week 6 onboarding covers a Big-O and array recap plus a Python classes refresher.
+> **Joining in Week 5?** Go through the Week 2–5 folders before your first session. The Week 6 onboarding covers a Big-O and array recap plus a Python classes refresher.
 
 ---
 
