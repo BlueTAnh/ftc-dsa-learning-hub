@@ -90,9 +90,6 @@ git pull
 | Tool | What it's for | Link |
 |---|---|---|
 | **LeetCode** | Most homework problems. Create a free account. | [leetcode.com](https://leetcode.com/) |
-| **Python Tutor** | Visualize code step by step (great for recursion and pointers). | [pythontutor.com](https://pythontutor.com/) |
-| **VisuAlgo** | Animations of data structures and algorithms. | [visualgo.net](https://visualgo.net/) |
-
 ---
 
 ## Troubleshooting
