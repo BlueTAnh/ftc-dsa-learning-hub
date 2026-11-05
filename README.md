@@ -2,7 +2,7 @@
 
 A 10-week **Data Structures & Algorithms** course in **Python**, run by the **RMIT Vietnam FinTech Club**.
 
-This repo holds everything you need: notes, slides, live-code examples, homework and solutions.
+This repo holds everything you need: live-code examples, homework and solutions.
 
 ---
 
