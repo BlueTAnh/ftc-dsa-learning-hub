@@ -35,7 +35,7 @@ This repo holds everything you need: live-code examples, homework and solutions.
 | 3 | Arrays, Sorting & Searching | [`week-03-arrays-sorting-searching`](week-03-arrays-sorting-searching/) |
 | 4 | Array Patterns (Two Pointers, Sliding Window) | [`week-04-array-patterns`](week-04-array-patterns/) |
 | 5 | Hash Tables | [`week-05-hash-tables`](week-05-hash-tables/) |
-| 6 | Linked List _(new members join)_ | [`week-06-linked-list`](week-06-linked-list/) |
+| 6 | Linked List | [`week-06-linked-list`](week-06-linked-list/) |
 | 7 | Stacks & Queues + Mid-course Review | [`week-07-stacks-queues`](week-07-stacks-queues/) |
 | 8 | Recursion & Merge Sort | [`week-08-recursion`](week-08-recursion/) |
 | 9 | Trees (part 1): Binary Trees, BFS & DFS | [`week-09-trees-1`](week-09-trees-1/) |
