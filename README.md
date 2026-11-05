@@ -111,4 +111,4 @@ week-XX-topic/
 
 ## Contact
 
-Questions about the course: post in the group chat or message your assigned class assistant.
+Questions about the course: post in the group chat.
