@@ -1,3 +1,5 @@
+# Problem 1: Weekly Court Pass
+# Time: O(N)
 def min_passes(visits):
     min_pass = 1
     day = {
