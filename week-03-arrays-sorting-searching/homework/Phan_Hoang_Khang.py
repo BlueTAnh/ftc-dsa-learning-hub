@@ -35,6 +35,41 @@ class Solution:
 
         return names
 
+# Problem 3: Find Target Indices After Sorting Array
+# Time: O(N^2)
+class Solution:
+    def targetIndices(self, nums: list[int], target: int) -> list[int]:
+        n = len(nums)
+        arr = []
 
+        for i in range(n):
+            for j in range(n - 1 - i):
+                if nums[j] > nums[j + 1]:
+                    nums[j], nums[j + 1] = nums[j + 1], nums[j]
 
+        for i in range(n):
+            if nums[i] == target:
+                arr.append(i)
 
+        return arr
+
+# Problem 4: Search a 2D Matrix
+# Time: O(mlog(n))
+# Where m is the length of row, and n is the length of column
+class Solution:
+    def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
+        for row in matrix:
+            low = 0
+            high = len(row) - 1
+
+            while low <= high:
+                mid = (low + high) // 2
+
+                if target < row[mid]:
+                    high = mid - 1
+                elif target > row[mid]:
+                    low = mid + 1
+                else:
+                    return True
+
+        return False
