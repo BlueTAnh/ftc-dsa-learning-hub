@@ -15,7 +15,7 @@ class HashSet:
         if key not in bucket:
             bucket.append(key)
 
-    def contains(self, key):
+    def search(self, key):
         index = self.hash_function(key)
         return key in self.buckets[index]
 
@@ -25,8 +25,7 @@ class HashSet:
         if key in bucket:
             bucket.remove(key)
 
-
 s = HashSet()
-for word in ["cat", "dog", "cow", "owl", "act"]:
-    s.add(word)
+for animals in ["cat", "dog", "cow", "owl", "act"]:
+    s.add(animals)
 print(s.buckets)
